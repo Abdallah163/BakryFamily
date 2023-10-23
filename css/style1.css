@@ -1,0 +1,191 @@
+ #all {
+    color: gray;
+    font-family: 'Alegreya', serif;}
+
+#intro {
+    background-image: url(../img/different-types-bread-made-from-wheat-flour.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+#who {
+    display: inline-block;
+    width: 100%;
+}
+
+#Our {
+    display: inline-block;
+    width: 100%;
+
+
+}
+
+#Baking {
+    display: inline-block;
+    width: 100%;
+
+
+}
+
+
+
+.btn {
+    border: 1px white solid;
+    font-size: 25px;
+}
+
+
+
+#home {
+    text-align: right;
+    font-size: larger;
+    color: white;
+}
+
+.llooggoo {
+    text-align: right;
+}
+
+.logo {
+    width: 30%;
+    height: 15%;
+    background-image: url(../img/bakery-light-1.png);
+    background-position: 50px top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1 {
+    padding-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+
+}
+
+.fam {
+    font-size: 100px;
+}
+
+.we {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-c {
+    background-color: white;
+    padding: 10px;
+}
+
+.btn-l {
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+
+}
+
+.h {
+    padding: 10px;
+    color: #d0bcbc;
+border: 10px seashell;
+margin: 10px;
+font-size: 25px;
+}
+
+.Bakery, .fam, .we {
+    color: white;
+text-align: center;    
+}
+.fam{
+    font-family: 'Alegreya', serif;}
+.who {
+    float: right;
+    width: 35%;
+    padding-right: 100px;
+
+}
+.our{
+    float: left;
+    width: 35%;
+    padding-left: 100px;
+
+}
+.baking{
+    background-color: transparent;
+    font-size: 20px;
+    text-align: center;
+}
+p .baking{
+    text-align: left;
+}
+
+.f-r {
+    float: left;
+    width: 35%;
+    padding-left: 100px;
+}
+
+.i-r {
+    float: right;
+    width: 35%;
+    padding-right: 100px;
+}
+
+p .all{
+    font-size: 35px;
+    color: gray;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.map {
+    float: right;
+}
+.one,.two,.three{
+    width: 20%;
+    display: inline-block;
+}
+.on,.tw,.thr{
+    width: 300px;
+float: left;
+}
+.information{
+    float: left;
+    width: 35%;
+    padding-left: 100px;
+}
+.ifr{
+    float: left;
+    padding-left: 100px;
+}
+.tail{
+    background-color:#47443f;
+    font-family: serif;
+    text-align: justify left;
+    font-size: 15px;
+}
+
+.why, .AboutUs, .Opening, .Details{
+width: 23%;
+background-color:#47443f;
+height: 60%;
+color: #969696;
+text-align: justify;
+border: 10px;
+display: inline-block;
+}
+h3{
+    font-size: 30px;
+color: gray;
+font-family: 'Alegreya', serif;
+}
+p .why, .AboutUs, .Opening, .Details{
+    border: 10px;
+margin: 15px;
+}
+.finish{
+    text-align: center;
+}
+.img11,.img22,.img33{
+    width: 600px;
+}
